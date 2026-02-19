@@ -1,9 +1,7 @@
-
 venv/
-.venv/
 __pycache__/
+.pytest_cache/
 *.pyc
-target/
-.allure-results/
-.idea/
 .DS_Store
+htmlcov/
+.coverage
